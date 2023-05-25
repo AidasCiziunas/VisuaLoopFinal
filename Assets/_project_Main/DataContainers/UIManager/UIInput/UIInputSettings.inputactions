@@ -1,0 +1,33 @@
+{
+    "name": "UIInputSettings",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "c0d134c5-9f8e-4273-a8d1-99673d141cde",
+            "actions": [
+                {
+                    "name": "Back",
+                    "type": "Button",
+                    "id": "3204e9d5-936c-43d8-a2a9-27138c5d3d06",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "350b6aa8-b786-4bac-a8ec-65d3281c7121",
+                    "path": "*/{Back}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

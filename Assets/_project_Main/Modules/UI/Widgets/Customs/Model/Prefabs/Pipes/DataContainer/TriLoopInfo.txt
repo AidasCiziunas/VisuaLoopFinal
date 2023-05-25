@@ -1,0 +1,184 @@
+{
+  "Details": [
+    {
+      "Heading": "Function",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Flex-Hose Co.'s Tri-Loop® makes a world of difference in critical piping connections. It is designed to provide a superior flexible pipe loop that will absorb and compensate multi-plane pipe movements simultaneously as well as reduce piping stress. With new space saving patented design.\n\nUS Patent No. 10,458,575 B2\n\nCanadian Patent No. 2.970,107"
+        }
+      ]
+    },
+    {
+      "Heading": "Materials",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Stainless Steel or Bronze (other alloys and styles available)"
+        }
+      ]
+    },
+    {
+      "Heading": "Sizes",
+      "DescriptionInfoLs": [
+        {
+          "Description": "1/2\" to 14\" I.D. (Stock sizes 1/2\" to 4\")"
+        }
+      ]
+    },
+    {
+      "Heading": "Notes",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Working pressure of standard hose and braid construction up to 1325PSI or full vacuum and operating temperatures of -400° F to +1500° F."
+        }
+      ]
+    },
+    {
+      "Heading": "Warranty",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Flex-Hose Co. offers a free 5-year warranty to show their confidence and back the Tri-Loop® 100%."
+        }
+      ]
+    }
+  ],
+  "DocBrochers": [
+    {
+      "Heading": "Brochures",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Product Overview Brochure",
+          "URL": "https://flexhose.com/sites/default/files/FH%20Overview%207-19.pdf"
+        },
+        {
+          "Description": "Seismic Movement",
+          "URL": "https://flexhose.com/sites/default/files/SEISMIC%20MOVEMENT.pdf"
+        },
+        {
+          "Description": "Tri-Loop® Brochure",
+          "URL": "https://flexhose.com/sites/default/files/Tri-Loop%20brochure%20LR.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "Specifications",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Tri-Loop® Specifications",
+          "URL": "https://flexhose.com/sites/default/files/TriLoop%20202301%20spec.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "Installation Instructions",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Tri-Loop® IOM",
+          "URL": "https://flexhose.com/sites/default/files/TriLoopInstall202004R.pdf"
+        }
+      ]
+    }
+  ],
+  "BIMContent": [
+    {
+      "Heading": "",
+      "DescriptionInfoLs": [
+        {
+          "Description": "BIM files for Tri-Loop",
+          "URL": "https://flexhose.com/sites/default/files/Tri-Loop.zip"
+        }
+      ]
+    }
+  ],
+  "Submittals": [
+    {
+      "Heading": "+/- 2” Motion",
+      "DescriptionInfoLs": [
+        {
+          "Description": "316 stainless wetted with flange",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SSMP6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with grooved end",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SSVG6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with MPT",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SSMN6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with weld end",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SSWN6.pdf"
+        },
+        {
+          "Description": "Bronze w/ copper female sweat",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2BSW.pdf"
+        },
+        {
+          "Description": "Bronze with copper female press style",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2BPP.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel flange",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SMP.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel groove",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SVG.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel MPT",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SMN.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel weld end",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL2SWN.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "+/- 4” Motion",
+      "DescriptionInfoLs": [
+        {
+          "Description": "316 stainless wetted with flange",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SSMP6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with grooved end",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SSVG6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with MPT",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SSMN6_0.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with weld ends",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SSWN6.pdf"
+        },
+        {
+          "Description": "Bronze w/ copper female sweat",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4BSW.pdf"
+        },
+        {
+          "Description": "Bronze with copper female press style",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4BPP.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel flange",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SMP.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel groove",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SVG.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel MPT",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SMN.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel weld end",
+          "URL": "https://flexhose.com/sites/default/files/FHTRYL4SWN.pdf"
+        }
+      ]
+    }
+  ]
+}

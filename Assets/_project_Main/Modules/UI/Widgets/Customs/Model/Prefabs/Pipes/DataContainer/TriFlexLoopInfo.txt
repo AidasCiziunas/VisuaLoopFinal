@@ -1,0 +1,248 @@
+{
+  "Details": [
+    {
+      "Heading": "Function",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Flex-Hose Co.'s Tri-Flex Loop® makes a world of difference in critical piping connections. It is designed to provide a superior flexible pipe loop that will absorb and compensate multi-plane pipe movements simultaneously as well as reduce piping stress."
+        }
+      ]
+    },
+    {
+      "Heading": "Materials",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Stainless Steel or Bronze (other alloys and styles available)"
+        }
+      ]
+    },
+    {
+      "Heading": "Sizes",
+      "DescriptionInfoLs": [
+        {
+          "Description": "1/2\" to 14\" I.D. (Stock sizes 1/2\" to 4\")"
+        }
+      ]
+    },
+    {
+      "Heading": "Notes",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Working pressure of standard hose and braid construction up to 1325PSI or full vacuum and operating temperatures of -400° F to +1500° F."
+        }
+      ]
+    },
+    {
+      "Heading": "Warranty",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Flex-Hose Co. offers a free 5-year warranty to show their confidence and back the Tri-Flex Loop® 100%."
+        }
+      ]
+    }
+  ],
+  "DocBrochers": [
+    {
+      "Heading": "Brochures",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Product Overview Brochure",
+          "URL": "https://flexhose.com/sites/default/files/FH%20Overview%207-19.pdf"
+        },
+        {
+          "Description": "Seismic Movement",
+          "URL": "https://flexhose.com/sites/default/files/SEISMIC%20MOVEMENT.pdf"
+        },
+        {
+          "Description": "Tri-Flex Loop Brochure",
+          "URL": "https://flexhose.com/sites/default/files/TFL2017Rev.pdf"
+        },
+        {
+          "Description": "Tri-Flex Loop Fire Protection Brochure",
+          "URL": "https://flexhose.com/sites/default/files/TFL%20Fire%20Protection%20brochureHR1%20small_012221.pdf"
+        },
+        {
+          "Description": "VRF UL Announcement HR",
+          "URL": "https://flexhose.com/sites/default/files/VRF%20UL%20Announcement%20HR.jpg"
+        }
+      ]
+    },
+    {
+      "Heading": "Specifications",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Tri-Flex Loop, Tri-Flex Loop (UL-536 listed",
+          "URL": "https://flexhose.com/sites/default/files/2020Nov%20Tri-Flex-Loop.pdf"
+        },
+        {
+          "Description": "compressed and flammable gases) and Tri-",
+          "URL": "https://flexhose.com/sites/default/files/2020Nov%20Tri-Flex-Loop.pdf"
+        },
+        {
+          "Description": "Flex Loop (UL-207 listed refrigeration)",
+          "URL": "https://flexhose.com/sites/default/files/2020Nov%20Tri-Flex-Loop.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "Installation Instructions",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Hanging Tri-Flex Loop",
+          "URL": "https://flexhose.com/sites/default/files/Hanger%20Installation2019.pdf"
+        },
+        {
+          "Description": "Nested Tri-Flex Loop worksheet",
+          "URL": "https://flexhose.com/sites/default/files/nested%20worksheet.pdf"
+        },
+        {
+          "Description": "Tri-Flex Loop (Page 1)",
+          "URL": "https://flexhose.com/sites/default/files/triinstallr1.pdf"
+        },
+        {
+          "Description": "Tri-Flex Loop (Page 2)",
+          "URL": "https://flexhose.com/sites/default/files/triinstall%20backr1.pdf"
+        },
+        {
+          "Description": "Tri-Flex Loop UL",
+          "URL": "https://flexhose.com/sites/default/files/triinstallul.pdf"
+        }
+      ]
+    }
+  ],
+  "BIMContent": [
+    {
+      "Heading": "",
+      "DescriptionInfoLs": [
+        {
+          "Description": "BIM files for Tri-Flex Loop",
+          "URL": "https://flexhose.com/sites/default/files/Tri-Flex%20Loop.zip"
+        }
+      ]
+    }
+  ],
+  "Submittals": [
+    {
+      "Heading": "+/- 2” Motion",
+      "DescriptionInfoLs": [
+        {
+          "Description": "316 stainless wetted with flange",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SSMP6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with grooved end",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SSVG6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with MPT",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SSMN6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with weld end",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SSWN6_0.pdf"
+        },
+        {
+          "Description": "Bronze w/ copper female sweat",
+          "URL": "https://flexhose.com/sites/default/files/TFL2BSW.pdf"
+        },
+        {
+          "Description": "Bronze with copper female press style",
+          "URL": "https://flexhose.com/sites/default/files/TFL2BPP.pdf"
+        },
+        {
+          "Description": "Bronze with copper female sweat UL-207 (Refrigeration)",
+          "URL": "https://flexhose.com/sites/default/files/TFL2BSWRFR_0.pdf"
+        },
+        {
+          "Description": "Stainless w/ carbon steel flange *UL-536",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SMP-UL.pdf"
+        },
+        {
+          "Description": "Stainless w/ carbon steel MPT *UL-536",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SMN-UL.pdf"
+        },
+        {
+          "Description": "Stainless w/ carbon steel weld *UL-536",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SWN-UL.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel flange",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SMP.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel groove",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SVG.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel MPT",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SMN.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel weld end",
+          "URL": "https://flexhose.com/sites/default/files/TFL2SWN.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "+/- 4” Motion",
+      "DescriptionInfoLs": [
+        {
+          "Description": "316 stainless steel wetted with weld end",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SSWN6_1.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with flange",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SSMP6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with grooved end",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SSVG6.pdf"
+        },
+        {
+          "Description": "316 stainless wetted with MPT",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SSMN6.pdf"
+        },
+        {
+          "Description": "Bronze w/ copper female sweat",
+          "URL": "https://flexhose.com/sites/default/files/TFL4BSW.pdf"
+        },
+        {
+          "Description": "Bronze with copper female press style",
+          "URL": "https://flexhose.com/sites/default/files/TFL4BPP.pdf"
+        },
+        {
+          "Description": "Bronze with copper female sweat UL-207 (Refrigeration)",
+          "URL": "https://flexhose.com/sites/default/files/TFL4BSWRFR.pdf"
+        },
+        {
+          "Description": "Stainless w/ carbon steel flange *UL-536",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SMP-UL.pdf"
+        },
+        {
+          "Description": "Stainless w/ carbon steel MPT *UL-536",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SMN-UL.pdf"
+        },
+        {
+          "Description": "Stainless w/ carbon steel weld *UL-536",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SWN-UL.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel flange",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SMP.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel groove",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SVG.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel MPT",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SMN.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel weld end",
+          "URL": "https://flexhose.com/sites/default/files/TFL4SWN.pdf"
+        }
+      ]
+    }
+  ]
+}

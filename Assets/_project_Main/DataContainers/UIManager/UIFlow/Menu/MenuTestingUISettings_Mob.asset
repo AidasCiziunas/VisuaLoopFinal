@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1882954d4a6f69a429d40785fb50c37e, type: 3}
+  m_Name: MenuTestingUISettings_Mob
+  m_EditorClassIdentifier: 
+  templateUIPrefab: {fileID: 9179110797456577764, guid: c61d632c339bec14fb8a1e339202fd8a, type: 3}
+  screensToRegister:
+  - {fileID: 1860029083767952635, guid: b54eeceb86e34174db48ae84f4c1a475, type: 3}
+  - {fileID: 1860029083767952635, guid: 347adf3a03fe75c4ab0ae7eb6d802624, type: 3}
+  - {fileID: 6516934089748659726, guid: 7cec9fe1a7f4d6e428b51066c500ff7f, type: 3}
+  - {fileID: 6026505117998864587, guid: 58e5e621c15f93445b8db340549a2baa, type: 3}
+  - {fileID: 6026505117998864587, guid: fbe47123a5dff95408a24017a22fc1f5, type: 3}
+  deactivateScreenGOs: 1
+  secondEntryIsPanel: 0

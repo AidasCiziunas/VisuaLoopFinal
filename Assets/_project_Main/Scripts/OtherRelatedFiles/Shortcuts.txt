@@ -1,0 +1,6 @@
+﻿Ctrl + Shift + -> -> To Move to end of word
+F8 -> To quickly jump to references
+Alt + UpArrow -> To move content up
+Alt + LMB -> To Collapse Component
+Ctrl + M + 0 -> Collapse All
+Ctrl + M + P ->  Expand All

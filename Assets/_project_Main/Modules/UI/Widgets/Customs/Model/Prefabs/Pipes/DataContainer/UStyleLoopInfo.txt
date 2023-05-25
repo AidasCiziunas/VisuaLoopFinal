@@ -1,0 +1,140 @@
+{
+  "Details": [
+    {
+      "Heading": "Function",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Flex-Hose Co.'s 2-Leg U & V Style Loop is designed to provide a flexible pipe loop that will absorb and compensate thermal pipe movements as well as reducing piping stress."
+        }
+      ]
+    },
+    {
+      "Heading": "Materials",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Stainless Steel or Bronze (other alloys and styles available)"
+        }
+      ]
+    },
+    {
+      "Heading": "Sizes",
+      "DescriptionInfoLs": [
+        {
+          "Description": "1/2\" to 12\" I.D."
+        }
+      ]
+    },
+    {
+      "Heading": "Notes",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Working pressure of standard hose and braid construction up to 1325PSI or full vacuum and operating temperatures of -400° F to +1500° F."
+        }
+      ]
+    },
+    {
+      "Heading": "Warranty",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Flex-Hose Co. offers a free 2-year warranty to show their confidence and back the loop 100%."
+        }
+      ]
+    }
+  ],
+  "DocBrochers": [
+    {
+      "Heading": "Brochures",
+      "DescriptionInfoLs": [
+        {
+          "Description": "FHU-Loop FM flyer LR",
+          "URL": "https://flexhose.com/sites/default/files/FHU-Loop%20FM%20flyer%20LR.pdf"
+        },
+        {
+          "Description": "Seismic Movement",
+          "URL": "https://flexhose.com/sites/default/files/SEISMIC%20MOVEMENT.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "Specifications",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Two-leg U Style Loop Specifications",
+          "URL": "https://flexhose.com/sites/default/files/20192LUloop.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "Installation Instructions",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Install & Maint for 2-leg V & U Loops",
+          "URL": "https://flexhose.com/sites/default/files/Install%20%26%20Maint%20for%202-leg%20V%20%26%20U%20Loops.pdf"
+        }
+      ]
+    }
+  ],
+  "BIMContent": [
+    {
+      "Heading": "",
+      "DescriptionInfoLs": [
+        {
+          "Description": "BIM files for 2-leg U-style loop",
+          "URL": "https://flexhose.com/sites/default/files/2%20Leg%20U%20style%20loop.zip"
+        }
+      ]
+    }
+  ],
+  "Submittals": [
+    {
+      "Heading": "+/- 1.5\"",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Bronze with copper female sweat",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU3S.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel flange",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU3F%20rev.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel groove",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU3G.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel MPT",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU3M.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel weld end",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU3W.pdf"
+        }
+      ]
+    },
+    {
+      "Heading": "+/- 4\"",
+      "DescriptionInfoLs": [
+        {
+          "Description": "Bronze with copper female sweat",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU8S.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel flange",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU8F.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel groove",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU8G.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel MPT",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU8M.pdf"
+        },
+        {
+          "Description": "Stainless with carbon steel weld end",
+          "URL": "https://flexhose.com/sites/default/files/FLTLU8W.pdf"
+        }
+      ]
+    }
+  ]
+}
